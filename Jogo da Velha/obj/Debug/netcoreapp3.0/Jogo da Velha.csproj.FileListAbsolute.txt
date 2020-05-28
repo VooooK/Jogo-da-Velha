@@ -1,0 +1,15 @@
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.csprojAssemblyReference.cache
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo_da_Velha.Form1.resources
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.csproj.GenerateResource.cache
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.AssemblyInfoInputs.cache
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.AssemblyInfo.cs
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.csproj.CoreCompileInputs.cache
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\bin\Debug\netcoreapp3.0\Jogo da Velha.exe
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\bin\Debug\netcoreapp3.0\Jogo da Velha.deps.json
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\bin\Debug\netcoreapp3.0\Jogo da Velha.runtimeconfig.json
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\bin\Debug\netcoreapp3.0\Jogo da Velha.runtimeconfig.dev.json
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\bin\Debug\netcoreapp3.0\Jogo da Velha.dll
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\bin\Debug\netcoreapp3.0\Jogo da Velha.pdb
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.dll
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.pdb
+F:\CAIO\Unit\IA\Jogo da Velha 2020 - 1\Jogo da Velha\obj\Debug\netcoreapp3.0\Jogo da Velha.genruntimeconfig.cache
